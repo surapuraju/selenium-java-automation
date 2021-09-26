@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-09-26T09:48:51Z" name="Suite CRM Application Test Automation Test Suite" finished-at="2021-09-26T09:49:18Z" duration-ms="27352">
+  <suite started-at="2021-09-26T11:09:02Z" name="Suite CRM Application Test Automation Test Suite" finished-at="2021-09-26T11:09:31Z" duration-ms="29287">
     <groups>
     </groups>
-    <test started-at="2021-09-26T09:48:51Z" name="Suite CRM App Test Cases" finished-at="2021-09-26T09:49:18Z" duration-ms="27352">
+    <test started-at="2021-09-26T11:09:02Z" name="Suite CRM App Test Cases" finished-at="2021-09-26T11:09:31Z" duration-ms="29287">
       <class name="com.crm.qa.testcases.LoginPageTest">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.crm.qa.testcases.LoginPageTest@45b4c3a9]" started-at="2021-09-26T15:18:51Z" name="setUp" finished-at="2021-09-26T15:18:55Z" duration-ms="4557" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.crm.qa.testcases.LoginPageTest@45b4c3a9]" started-at="2021-09-26T16:39:02Z" name="setUp" finished-at="2021-09-26T16:39:11Z" duration-ms="8683" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="loginTest()[pri:1, instance:com.crm.qa.testcases.LoginPageTest@45b4c3a9]" started-at="2021-09-26T15:18:55Z" name="loginTest" finished-at="2021-09-26T15:19:18Z" duration-ms="22081" status="PASS">
+        <test-method signature="loginTest()[pri:1, instance:com.crm.qa.testcases.LoginPageTest@45b4c3a9]" started-at="2021-09-26T16:39:11Z" name="loginTest" finished-at="2021-09-26T16:39:31Z" duration-ms="19855" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.crm.qa.testcases.LoginPageTest@45b4c3a9]" started-at="2021-09-26T15:19:18Z" name="tearDown" finished-at="2021-09-26T15:19:18Z" duration-ms="694" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.crm.qa.testcases.LoginPageTest@45b4c3a9]" started-at="2021-09-26T16:39:31Z" name="tearDown" finished-at="2021-09-26T16:39:31Z" duration-ms="726" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
