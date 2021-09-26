@@ -1,0 +1,1 @@
+mvn clean test -DsuiteXmlFile=C:\Data\Data2\HCL\Automation\SeleniumJava\PageObjectModel-master\src\main\resources\testng_sanity.xml
