@@ -15,7 +15,7 @@ public class ContactsPage extends TestBase {
 	WebElement all;
 		
 	@FindBy(linkText = "Create Contacts")
-	WebElement accountsLable;
+	WebElement contactsLable;
 	
 	@FindBy(xpath="//*[@id=\"logout_link\"]")
 	WebElement signOutBtn;
@@ -66,7 +66,7 @@ public class ContactsPage extends TestBase {
 			e.printStackTrace();
 		} 
     	
-    	accountsLable.click();
+    	contactsLable.click();
     	
     	try {
 			Thread.sleep(5000);
