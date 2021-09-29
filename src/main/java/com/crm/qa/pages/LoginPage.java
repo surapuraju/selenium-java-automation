@@ -193,6 +193,8 @@ public class LoginPage extends TestBase {
 				// TODO Auto-generated catch block
 				e.printStackTrace();
 			}
+			
+			System.out.println("CountId: " + i);
 
 		}
 		js.executeScript("arguments[0].click();", signOutBtn);
