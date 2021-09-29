@@ -11,7 +11,7 @@ import com.github.javafaker.Faker;
 
 public class LoginPage extends TestBase {
 
-	// Page Factory - OR:
+	// Page Factory - OR: for object locators
 	@FindBy(id = "user_name")
 	WebElement username;
 
