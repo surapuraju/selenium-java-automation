@@ -113,7 +113,7 @@ public class LoginPage extends TestBase {
 		JavascriptExecutor js = (JavascriptExecutor) driver;
 		js.executeScript("arguments[0].click();", loginBtn);
 
-		for (int i = 0; i < 5; i++) {
+		for (int i = 0; i < 2; i++) {
 
 			try {
 				Thread.sleep(50);
