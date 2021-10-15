@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="Suite CRM Application Test Automation Test Suite" verbose="10">
+
+<listeners>
+	<listener class-name = "com.crm.qa.base.Listeners" />
+</listeners>
+
 	<test name="Suite CRM App Test Cases" verbose="10">
 		<classes>
 			<class name="com.crm.qa.testcases.LoginPageTest"></class>

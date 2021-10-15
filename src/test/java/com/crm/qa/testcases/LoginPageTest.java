@@ -41,11 +41,15 @@ public class LoginPageTest extends TestBase{
 	
 	@AfterMethod
 	public void tearDown(){
+		System.out.println();	
+		System.out.println();
 		driver.quit();
 	}
 	
 	
+
 	
 	
 
 }
+
