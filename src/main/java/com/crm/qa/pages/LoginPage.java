@@ -11,7 +11,7 @@ import com.github.javafaker.Faker;
 
 public class LoginPage extends TestBase {
 
-	// KP 
+	// KP Claims Processing
 	@FindBy(id = "username")
 	WebElement kpUserName;
 	
